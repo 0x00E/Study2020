@@ -1,0 +1,16 @@
+Imports System
+Imports System.IO
+Imports System.Linq
+Imports System.Collections.Generic
+
+Namespace VisualBasicShell
+    Class Program
+        Sub Main
+        	Dim a=1
+        	Dim b=1.5f
+        	Dim c=1.6d
+        	Dim s="str"
+        	Console.WriteLine(c)
+        End Sub
+    End Class
+End Namespace
